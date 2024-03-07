@@ -4,7 +4,7 @@
 .idea/
 .run/
 .github/
-##//
+
 venv/
 build/
 dist/
